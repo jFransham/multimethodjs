@@ -1,0 +1,24 @@
+{
+  "name": "multimethodjs",
+  "version": "0.1.0",
+  "description": "Simple multimethods for JavaScript for functional-style programming. Allows matching with equality or with a custom function.",
+  "main": "multimethod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jFransham/multimethodjs.git"
+  },
+  "keywords": [
+    "multimethod",
+    "functional",
+    "programming"
+  ],
+  "author": "One Eff Jef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jFransham/multimethodjs/issues"
+  },
+  "homepage": "https://github.com/jFransham/multimethodjs#readme"
+}
